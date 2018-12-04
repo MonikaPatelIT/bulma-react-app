@@ -38,8 +38,7 @@ In react we have to use 'ClassName' instead of 'class'
                 </a>
                 <span
                   className="navbar-burger burger"
-                  data-target="navbarMenuHeroA"
-                >
+                  data-target="navbarMenuHeroA">
                   <span />
                   <span />
                   <span />
